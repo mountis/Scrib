@@ -6,7 +6,8 @@ Scrib is a note taking with a simple user interface design that allows users to 
 This is an App for anyone looking for a notes taking app that has a simple, and easy to use UI with many features.
 
 
-#Features
+# Features
+
 Material Design interface 
 Users can add, modify, archive, trash, share, merge, search notes and delete notes
 Image, audio and generic file attachments capabilities
